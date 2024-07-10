@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm yudha</h1>
 <h3 align="center">I am a student, I am interested in web development and data security</h3>
 
-- 🌱 I’m currently learning **javascript,nestjs,laravel**
+- 🌱 I’m currently learning **HTML, CSS, JavaScript**
 
 - 📫 How to reach me **yudhapratamagerli@gmail.com**
 
